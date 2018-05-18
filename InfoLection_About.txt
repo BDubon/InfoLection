@@ -1,0 +1,26 @@
+
+                               ---------------------------
+                                 WELCOME TO INFOLECTION!
+                               ---------------------------
+              
+		INST-126: Introduction to Programming for Information Science
+                                        Fall 2017
+                     iSchool at University of Maryland, College Park                              
+
+
+		InfoLection was created by The APIs.
+
+		 Kady Badham, Project Manager
+		 kdbdhm@gmail.com
+ 
+		 Caryn Pasking, Tester
+ 		 cpasking@umd.edu
+
+		 Ebrima Jarjue, Researcher
+ 		 EbrimaHJarjue@gmail.com
+
+		 Bryan Dubon, Analyst
+ 		 BDubon@umd.edu
+
+
+		InfoLection was last revised on: December 14, 2017
